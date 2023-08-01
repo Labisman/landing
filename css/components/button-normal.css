@@ -1,0 +1,12 @@
+.button-normal {
+  display: inline-block;
+  background-color: #1333a8;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  transition: 0.1s ease-in-out;
+}
+
+.button-normal:hover{
+  background-color: #5b13a8;
+}
